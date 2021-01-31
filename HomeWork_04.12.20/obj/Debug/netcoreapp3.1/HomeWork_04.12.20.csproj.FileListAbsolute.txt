@@ -1,0 +1,13 @@
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.exe
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.deps.json
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.runtimeconfig.json
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.runtimeconfig.dev.json
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.dll
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\bin\Debug\netcoreapp3.1\HomeWork_04.12.20.pdb
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.csprojAssemblyReference.cache
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.csproj.CoreCompileInputs.cache
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.AssemblyInfoInputs.cache
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.AssemblyInfo.cs
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.dll
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.pdb
+C:\Users\Кана\source\repos\HomeWork_04.12.20\HomeWork_04.12.20\obj\Debug\netcoreapp3.1\HomeWork_04.12.20.genruntimeconfig.cache
